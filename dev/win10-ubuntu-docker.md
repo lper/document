@@ -49,10 +49,10 @@
 
     
  - 以下是安装Ubuntu应用操作相关图片 打开微软应用商店，搜索Ubuntu，选择16.04安装版本，这个版本测试是没有问题， 其它版本的没有测试。
-    ![此处输入图片的描述][2]
+    ![安装Ubuntu应用操作][2]
 
- - 安装完成后以管理员身份运行刚刚安装的Ubuntu应用，然后就是进行Ubuntu系统初始化操作，等待一会儿，会提示你输入一个用户名和密码，按照提示输入就可以了。
-   
+ - 安装完成后,要以管理员身份运行刚刚安装的Ubuntu应用，不然执行docker命令时会提示：cannot connect to the Docker daemon at unix:///var/run/docker.sock. Is the docker daemon running，然后就是进行Ubuntu系统初始化操作，等待一会儿，会提示你输入一个用户名和密码，按照提示输入就可以了。
+     ![管理员身份运行刚刚安装的Ubuntu应用][3]
    下面就是安装docker，直接贴官方的Ubuntu安装docker的教程，如果访问不了记得架梯子。https://docs.docker.com/install/linux/docker-ce/ubuntu/
    
    > `# step 1: 安装必要的一些系统工具`
@@ -92,3 +92,4 @@
 
   [1]: https://raw.githubusercontent.com/lper/document/master/dev/win-liunx.png
   [2]: https://raw.githubusercontent.com/lper/document/master/dev/win-ubuntu.png
+  [3]: https://raw.githubusercontent.com/lper/document/master/dev/ubuntu-scop.png
