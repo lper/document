@@ -8,7 +8,7 @@
 
     
 
-## 在安装Ubuntu应用之前，你需要先做件事情避免安装和使用过程中遇到各种奇怪的错误
+## 首先在安装Ubuntu应用之前，我们要做一些事情，避免安装和使用过程中，遇到各种坑。
  - 更换软件源apt源
     > ` cd /etc/apt/`
     > `      sudo cp sources.list sources.list.bak && sudo vim sources.list`
