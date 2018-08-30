@@ -12,21 +12,31 @@
  - 更换软件源apt源
     > ` cd /etc/apt/`
     > `      sudo cp sources.list sources.list.bak && sudo vim sources.list`
-    > `#deb包`
+    
+    > `#deb包 `
+    
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
+    
     > `#测试版源 `
+    
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse`
-    > `#源码`
+    
+    > `#源码 `
+    
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`  
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`  
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
-    > ` #测试版源`  
+    
+    > ` #测试版源 `  
+    
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse` 
+    
     > `#Canonical 合作伙伴和附加 `
+    
     > ` deb http://archive.canonical.com/ubuntu/ xenial partner` 
     > ` deb http://extras.ubuntu.com/ubuntu/ xenial main`  
     
@@ -67,11 +77,17 @@
    
 
    > `#安装指定版本的Docker-CE:`
+   
    > `#Step 1: 查找Docker-CE的版本:`
+   
    > `#apt-cache madison docker-ce`
+   
    > `#   docker-ce | 17.03.1~ce-0~ubuntu-xenial | http://mirrors.aliyun.com/docker-ce/linux/ubuntu xenial/stable amd64 Packages`
-   > `#   docker-ce | 17.03.0~ce-0~ubuntu-xenial | http://mirrors.aliyun.com/docker-ce/linux/ubuntu xenial/stable amd64 Packages`    
-   > `# sudo apt-get -y install docker-ce=[VERSION]`    
+   
+   > `#   docker-ce | 17.03.0~ce-0~ubuntu-xenial | http://mirrors.aliyun.com/docker-ce/linux/ubuntu xenial/stable amd64 Packages` 
+      
+   > `# sudo apt-get -y install docker-ce=[VERSION]` 
+      
    > `#   docker-ce | 17.03.0~ce-0~ubuntu-xenial |`    
 
   [1]: https://raw.githubusercontent.com/lper/document/master/dev/win-liunx.png
