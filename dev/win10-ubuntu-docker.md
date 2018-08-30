@@ -1,10 +1,10 @@
 ## 说明
 
->     微软和Ubuntu深入合作推出了基于win桌面运行Ubuntu系统.
->     
->     为了满足开发同学也在win下也可以使用ubuntu的开发环境.
->     
->     通过利用win上的Linux子系统Ubuntu16.04能否安装docker并正常使用
+   >     微软和Ubuntu深入合作推出了基于win桌面运行Ubuntu系统.
+   >     
+   >     为了满足开发同学也在win下也可以使用ubuntu的开发环境.
+   >     
+   >     通过利用win上的Linux子系统Ubuntu16.04能否安装docker并正常使用
 
     
 
