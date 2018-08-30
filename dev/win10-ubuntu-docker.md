@@ -9,6 +9,30 @@
     
 
 ##在安装Ubuntu应用之前，你需要先做件事情避免安装和使用过程中遇到各种奇怪的错误
+ - 更换软件源apt源
+    > ` cd /etc/apt/`
+    > `      sudo cp sources.list sources.list.bak && sudo vim sources.list`
+    > `#deb包`
+    > ` deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
+    > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`
+    > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`
+    > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
+    > `#测试版源 `
+    > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse`
+    > `#源码`
+    > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
+    > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`  
+    > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`  
+    > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
+    > ` #测试版源`  
+    > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-proposed main restricted universe multiverse` 
+    > `#Canonical 合作伙伴和附加 `
+    > ` deb http://archive.canonical.com/ubuntu/ xenial partner` 
+    > ` deb http://extras.ubuntu.com/ubuntu/ xenial main`  
+    
+
+       
+    
 
  - 到控制面板找到下图的window功能，勾选对应的两项内容点击确定，最后会提示你重启电脑，重启之后进行后面的操作
    ![win10 install linux][1]
