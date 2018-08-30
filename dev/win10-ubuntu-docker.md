@@ -11,13 +11,17 @@
 ## 首先在安装Ubuntu应用之前，我们要做一些事情，避免安装和使用过程中，遇到各种坑。
  - 更换软件源apt源
     > ` cd /etc/apt/`
+    
     > `      sudo cp sources.list sources.list.bak && sudo vim sources.list`
     
     > `#deb包 `
     
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
+    
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`
+    
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`
+    
     > ` deb http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
     
     > `#测试版源 `
@@ -27,8 +31,11 @@
     > `#源码 `
     
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial main restricted universe multiverse`
+    
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-security main restricted universe multiverse`  
+    
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-updates main restricted universe multiverse`  
+    
     > ` deb-src http://mirrors.aliyun.com/ubuntu/ xenial-backports main restricted universe multiverse`
     
     > ` #测试版源 `  
@@ -38,6 +45,7 @@
     > `#Canonical 合作伙伴和附加 `
     
     > ` deb http://archive.canonical.com/ubuntu/ xenial partner` 
+    
     > ` deb http://extras.ubuntu.com/ubuntu/ xenial main`  
     
 
