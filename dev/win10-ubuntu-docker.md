@@ -1,4 +1,4 @@
-##说明
+## 说明
 
 >     微软和Ubuntu深入合作推出了基于win桌面运行Ubuntu系统.
 >     
@@ -8,7 +8,7 @@
 
     
 
-##在安装Ubuntu应用之前，你需要先做件事情避免安装和使用过程中遇到各种奇怪的错误
+## 在安装Ubuntu应用之前，你需要先做件事情避免安装和使用过程中遇到各种奇怪的错误
  - 更换软件源apt源
     > ` cd /etc/apt/`
     > `      sudo cp sources.list sources.list.bak && sudo vim sources.list`
@@ -87,7 +87,7 @@
    > `#   docker-ce | 17.03.0~ce-0~ubuntu-xenial | http://mirrors.aliyun.com/docker-ce/linux/ubuntu xenial/stable amd64 Packages` 
       
    > `# sudo apt-get -y install docker-ce=[VERSION]` 
-      
+       
    > `#   docker-ce | 17.03.0~ce-0~ubuntu-xenial |`    
 
   [1]: https://raw.githubusercontent.com/lper/document/master/dev/win-liunx.png
