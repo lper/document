@@ -293,7 +293,6 @@ Breakpoint 1 at 0x10b123b for main.main() ./test.go:16 (1)
 Breakpoint 2 at 0x10b118f for main.counting() ./test.go:8 (0)
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 可见上面的两个设置的断点
 
@@ -316,7 +315,6 @@ Breakpoint 2 at 0x10b118f for main.counting() ./test.go:8 (0)
     21:        go counting(bus)
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 7)next (缩写n)转到下一个源行
 
@@ -434,11 +432,9 @@ Starting main
 使用更多参数调用时，它将在指定的goroutine上执行命令。
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 可见现在正在运行的goroutine
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 ```
 (dlv) goroutine
@@ -450,11 +446,9 @@ Goroutine 18:
     Start: ./test.go:8 main.counting (0x10b1180)
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
  指定查看的是goroutine 1 :
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 ```
 (dlv) goroutine 1
@@ -468,7 +462,6 @@ Goroutine 1:
     Start: /usr/local/Cellar/go/1.11.4/libexec/src/runtime/proc.go:110 runtime.main (0x102cb60)
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 这时候如果运行locals,得到的是goroutine 1所在处的局部变量：
 
@@ -488,7 +481,6 @@ Switched from 1 to 18 (thread 77795)
 
 13)goroutines 列举程序goroutines
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 ```
 (dlv) help goroutines
@@ -507,9 +499,7 @@ Print out info for every goroutine. The flag controls what information is shown 
 如果没有指定具体的标志，则默认使用-u.
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 ```
 (dlv) goroutines
@@ -528,7 +518,6 @@ Print out info for every goroutine. The flag controls what information is shown 
 [5 goroutines]
 ```
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 14)args 打印函数参数
 
@@ -550,7 +539,6 @@ count :  1
 
 15）stepout 跳出当前函数
 
-[![复制代码](//common.cnblogs.com/images/copycode.gif)](javascript:void(0); "复制代码")
 
 ```
 (dlv) restart
