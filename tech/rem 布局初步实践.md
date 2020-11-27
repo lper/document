@@ -10,17 +10,17 @@
 针对文博在线微网站,rem能解决什么问题?他有什么好处呢?
 
 我们是否遇到这样的情况:一个按钮,它的宽度可以做到自适应地随着设备的变化而去响应,但是高度呢?
-![](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/17750930371867.png)
+![](https://raw.staticdn.net/wweggplant/blog/master/docs/images/17750930371867.png)
 
 再比如一个两列的图片列表（这个图表达的有些问题，还没想好该怎么表达~~）:
 
-![](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/17750922181547.png)
+![](https://raw.staticdn.net/wweggplant/blog/master/docs/images/17750922181547.png)
 
 我们发现在没有使用特殊处理的情况下,想要图片按照给定的比例去显示是比较困难的.主要的原因是在css中height属性是不会轻易按照百分比去计算.之前项目中的pc站借助了javascript才搞定(当然最后发现没有什么实际的作用).但是在移动端,这个问题变的有意义了.
 
 可能有人对rem兼容性有疑问,请看[这里](http://caniuse.com/#search=rem)
 
-![rem兼容性](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/17220326519147.png)
+![rem兼容性](https://raw.staticdn.net/wweggplant/blog/master/docs/images/17220326519147.png)
 
 可以说在手机端使用,应该是没有问题的.淘宝的手机站已经采取了rem的方案.
 
@@ -31,11 +31,11 @@
 
 以640设计稿举例,图中左右两个300px×150px的item
 
-![](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/17200603827591.png)
+![](https://raw.staticdn.net/wweggplant/blog/master/docs/images/17200603827591.png)
 
 那么我们分成10份后,1rem=64px
 
-![](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/18310113443436.png)
+![](https://raw.staticdn.net/wweggplant/blog/master/docs/images/18310113443436.png)
 
 
 如果是原来的写法的话
@@ -207,7 +207,7 @@ css文件编写完毕后,在实际的html中我们需要计算真实设备中htm
 
 
 效果如下图:
-![](https://raw.githubusercontent.com/wweggplant/blog/master/docs/images/17540427041802.png)
+![](https://raw.staticdn.net/wweggplant/blog/master/docs/images/17540427041802.png)
 
 具体请点击[demo](http://wweggplant.github.io/blog/example/rem.html)
 
