@@ -14,7 +14,7 @@ Brotli 最初发布于 2015 年，用于网络字体的离线压缩。Google 软
 
 ### 浏览器支持情况
 
-![](https://segmentfault.com/img/bVNuSm?w=1269&h=708)
+![](https://raw.sevencdn.com/lper/document/master/img/196812783-5913d017054ae_articlex.png)
 
 *   Chrome 从版本 49 开始支持，但是完整的支持是在版本 50（2016 年 5 月 27 日开始支持）。
     
@@ -45,7 +45,7 @@ Content-Encoding: br
 
 下面是 LinkedIn 做的一个性能测试结果：
 
-![](https://segmentfault.com/img/remote/1460000009374440?w=1000&h=552)
+![](https://raw.sevencdn.com/lper/document/master/img/1954126711-5916930f96151_articlex.png)
 
 <table><thead><tr><th>Algorithm</th><th>Quality</th><th>Compression Time (ms)</th><th>Decompression Time (ms)</th></tr></thead><tbody><tr><td>gzip</td><td>6</td><td>169</td><td>35</td></tr><tr><td>gzip</td><td>9</td><td>284</td><td>27</td></tr><tr><td>zopfli</td><td>15</td><td>37,847</td><td>32</td></tr><tr><td>zopfli</td><td>100</td><td>194,460</td><td>38</td></tr><tr><td>zopfli</td><td>1000</td><td>1,855,480</td><td>29</td></tr><tr><td>brotli</td><td>4</td><td>109</td><td>24</td></tr><tr><td>brotli</td><td>5</td><td>193</td><td>20</td></tr><tr><td>brotli</td><td>5</td><td>517</td><td>23</td></tr><tr><td>brotli</td><td>11</td><td>11,913</td><td>22</td></tr></tbody></table>
 
