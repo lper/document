@@ -1,9 +1,9 @@
-#Content Security Polic (网页安全政策,缩写 CSP)
+# Content Security Polic (网页安全政策,缩写 CSP)
 CSP是一种由开发者定义的安全性政策性申明，通过CSP所约束的的规责指定可信的内容来源（这里的内容可以指脚本、图片、iframe、fton、style等等可能的远程的资源）。通过CSP协定，让WEB处于一个安全的运行环境中。
 
 CSP 大大增强了网页的安全性。攻击者即使发现了漏洞，也没法注入脚本，除非还控制了一台列入了白名单的可信主机。
 
-##两种方法可以启用 CSP。
+## 两种方法可以启用 CSP。
 一种是通过 HTTP 头信息的Content-Security-Policy的字段
 
     Content-Security-Policy: script-src 'self'; object-src 'none';
@@ -13,7 +13,7 @@ CSP 大大增强了网页的安全性。攻击者即使发现了漏洞，也没�
 	<meta http-equiv="Content-Security-Policy" content="script-src 'self'; object-src 'none'; style-src cdn.example.org third-party.org; child-src https:">
 
 
-##资源加载限制指令表
+## 资源加载限制指令表
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tbody>
     <tr>
