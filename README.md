@@ -10,7 +10,9 @@
 1. [DevOps knowledge](https://devops.phodal.com/)
 
 > ### 工具
-1. [anti-AD](https://anti-ad.net/
+1. [anti-AD](https://anti-ad.net/)
 2. [namesilo域名注册](https://www.namesilo.com/) 
-
+3. [proxy-switchyomega](https://github.com/FelisCatus/SwitchyOmega/)
+4. [简悦](http://ksria.com/simpread/)
+5. [Tampermonkey](http://tampermonkey.net/)
 
