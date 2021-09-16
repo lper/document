@@ -14,7 +14,14 @@
 4. [简悦](http://ksria.com/simpread/)
 5. [Tampermonkey](http://tampermonkey.net/)
 6. [foxmail](https://www.foxmail.com/)
+7. [typora](https://www.typora.io/)
+8. [utools](http://u.tools/)
 > ### 安全
 
 > ### proxy
 1. [bihai](https://proxies.bihai.cf/)
+
+> ### 系统
+ 1. [独角数卡](https://github.com/assimon/dujiaoka)
+ 2. [魔改版-独角数卡](https://github.com/iLay1678/dujiaoka-mod)
+ 3. [Guora](https://github.com/meloalright/guora)
