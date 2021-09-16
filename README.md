@@ -20,6 +20,7 @@
 10. [Adblock Plus](https://adblockplus.org/)
 > ### 安全
 1. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
+2. [安全学习](https://github.com/ffffffff0x/1earn)
 > ### proxy
 1. [bihai](https://proxies.bihai.cf/)
 
