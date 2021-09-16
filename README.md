@@ -16,6 +16,7 @@
 6. [foxmail](https://www.foxmail.com/)
 7. [typora](https://www.typora.io/)
 8. [utools](http://u.tools/)
+9. [dev-sidecar github 加速](https://github.com/docmirror/dev-sidecar)
 > ### 安全
 
 > ### proxy
