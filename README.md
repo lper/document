@@ -25,6 +25,7 @@
 1. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
 2. [安全学习](https://github.com/ffffffff0x/1earn)
 3. [seebug](https://paper.seebug.org/)
+4. [150本信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
 > ### proxy
 1. [bihai](https://proxies.bihai.cf/)
 
