@@ -21,6 +21,7 @@
 > ### 安全
 1. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
 2. [安全学习](https://github.com/ffffffff0x/1earn)
+3. [seebug](https://paper.seebug.org/)
 > ### proxy
 1. [bihai](https://proxies.bihai.cf/)
 
