@@ -19,6 +19,8 @@
 9. [dev-sidecar github 加速](https://github.com/docmirror/dev-sidecar)
 10. [Adblock Plus](https://adblockplus.org/)
 11. [typora](https://www.typora.io/)
+12. [Gridea](https://github.com/getgridea/gridea)
+13. [PicGo](https://github.com/Molunerfinn/PicGo)
 > ### 安全
 1. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
 2. [安全学习](https://github.com/ffffffff0x/1earn)
