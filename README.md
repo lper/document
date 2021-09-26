@@ -7,6 +7,8 @@
 6. [DevOps knowledge](https://devops.phodal.com/)
 7. [Waking-Up](https://github.com/wolverinn/Waking-Up)
 8. [golang资料大全](https://github.com/0voice/Introduction-to-Golang)
+9. [程序员修炼手册](https://github.com/stanzhai/be-a-professional-programmer)
+10. [Linux命令大全搜索工具](https://github.com/jaywcjlove/linux-command)
 > ### 工具
 1. [anti-AD](https://anti-ad.net/)
 2. [namesilo域名注册](https://www.namesilo.com/) 
