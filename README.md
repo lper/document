@@ -34,3 +34,6 @@
  1. [独角数卡](https://github.com/assimon/dujiaoka)
  2. [魔改版-独角数卡](https://github.com/iLay1678/dujiaoka-mod)
  3. [Guora](https://github.com/meloalright/guora)
+ 
+> ### 应用问题归类
+1. [总结](https://github.com/lper/document/tree/master/tech)
