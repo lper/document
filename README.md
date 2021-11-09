@@ -39,3 +39,6 @@
  
 > ### 应用类问题归类
 1. [总结](https://github.com/lper/document/tree/master/tech)
+
+> ### 其它
+ 1. [Android App 启动优化全记录](https://androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/#%E4%BC%98%E5%8C%96%E5%90%AF%E5%8A%A8%E9%80%BB%E8%BE%91)
