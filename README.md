@@ -24,14 +24,15 @@
 11. [Gridea](https://github.com/getgridea/gridea)
 12. [PicGo](https://github.com/Molunerfinn/PicGo)
 13. [magnetW](https://github.com/xiandanin/magnetW)
+14. [httpcanary](https://github.com/lper)
 > ### 安全
-14. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
-15. [安全学习](https://github.com/ffffffff0x/1earn)
-16. [seebug](https://paper.seebug.org/)
-17. [150本信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
-18. [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
+15. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
+16. [安全学习](https://github.com/ffffffff0x/1earn)
+17. [seebug](https://paper.seebug.org/)
+18. [150本信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
+19. [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
 > ### proxy
-19. [bihai](https://proxies.bihai.cf/)
+20. [bihai](https://proxies.bihai.cf/)
 
 > ### 系统
  1. [独角数卡](https://github.com/assimon/dujiaoka)
