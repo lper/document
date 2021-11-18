@@ -23,14 +23,15 @@
 10. [Adblock Plus](https://adblockplus.org/)
 11. [Gridea](https://github.com/getgridea/gridea)
 12. [PicGo](https://github.com/Molunerfinn/PicGo)
+13. [magnetW](https://github.com/xiandanin/magnetW)
 > ### 安全
-1. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
-2. [安全学习](https://github.com/ffffffff0x/1earn)
-3. [seebug](https://paper.seebug.org/)
-4. [150本信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
-4. [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
+14. [数字隐私](https://github.com/ffffffff0x/Digital-Privacy)
+15. [安全学习](https://github.com/ffffffff0x/1earn)
+16. [seebug](https://paper.seebug.org/)
+17. [150本信息安全方面的书籍书籍](https://github.com/olist213/Information_Security_Books)
+18. [Awesome-WAF](https://github.com/0xInfection/Awesome-WAF)
 > ### proxy
-1. [bihai](https://proxies.bihai.cf/)
+19. [bihai](https://proxies.bihai.cf/)
 
 > ### 系统
  1. [独角数卡](https://github.com/assimon/dujiaoka)
