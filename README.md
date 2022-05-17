@@ -45,3 +45,8 @@
 
 > ### 其它
  1. [Android App 启动优化全记录](https://androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/#%E4%BC%98%E5%8C%96%E5%90%AF%E5%8A%A8%E9%80%BB%E8%BE%91)
+ 2. [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu)
+ 3. [JustTrustMe](https://github.com/NVISOsecurity/MagiskTrustUserCerts)
+ 4. [xda](https://forum.xda-developers.com/)
+ 5. pd2txt spa2txt
+ 6. m3u8
