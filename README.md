@@ -44,7 +44,7 @@
 1. [总结](https://github.com/lper/document/tree/master/tech)
 > ### ChatGPT
 1. [如何同ChatGPT AI人工智能交流](https://prompt.lper.cn/)
-2. [账号购买商城](https://shop.lper.cn/)
+2. [ChatGPT/New Bing账号购买商城](https://shop.lper.cn/)
 > ### 其它
  1. [Android App 启动优化全记录](https://androidperformance.com/2019/11/18/Android-App-Lunch-Optimize/#%E4%BC%98%E5%8C%96%E5%90%AF%E5%8A%A8%E9%80%BB%E8%BE%91)
  2. [MagiskOnEmu](https://github.com/HuskyDG/MagiskOnEmu)
