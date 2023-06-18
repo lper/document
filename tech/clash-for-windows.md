@@ -352,16 +352,6 @@ CFW 支持使用 URL Scheme 快速导入配置文件：
 
 说明你使用的加密算法不被 Clash 支持。请更换加密算法。推荐：`ChaCha20-ietf-poly1305`
 
-## 11\. Clash 家族
-
-每一款都好用！吹爆！
-
-* 关于 ClashDotNetFramework ：[https://merlinblog.xyz/wiki/ClashDotNetFramework.html](https://merlinblog.xyz/wiki/ClashDotNetFramework.html)
-* 关于 ClashA （安卓）：[https://merlinblog.xyz/wiki/clasha.html](https://merlinblog.xyz/wiki/clasha.html)
-* 关于 Clash for Android ：[https://merlinblog.xyz/wiki/cfa.html](https://merlinblog.xyz/wiki/cfa.html)
-* 关于 ClashX (Mac) ：[https://merlinblog.xyz/wiki/ClashX.html](https://merlinblog.xyz/wiki/ClashX.html)
-* 关于 Clash for Windows for Mac ：[https://merlinblog.xyz/wiki/clash-for-windows-for-mac.html](https://merlinblog.xyz/wiki/clash-for-windows-for-mac.html)
-* 关于 ClashWeb・一款轻量化的 Clash for Windows ：[https://merlinblog.xyz/wiki/clashweb.html](https://merlinblog.xyz/wiki/clashweb.html)
 
 Clash for Android 终于更新了支持 SSR 的新内核！！  
 至此三大平台的 Clash 客户端都支持了 SSR，可喜可贺 🎉🎉🎉  
